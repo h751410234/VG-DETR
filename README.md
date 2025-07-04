@@ -42,7 +42,7 @@ A lightweight **pre-processing pipeline** that prepares the target-domain data f
 
 | Step | Script / Resource | Description |
 |------|------------------|-------------|
-| **1** | [`random_select_data.py`](./random_select_data.py) | Randomly selects a user-defined percentage of images from the complete target-domain dataset. |
+| **1** | [`random_select_data.py`](./1.random_select_data.py) | Randomly selects a user-defined percentage of images from the complete target-domain dataset. |
 | **2** | `extract_features_dinov2.py` <br><sup>(to be released after paper acceptance)</sup> | Extracts dense visual features for all selected images using **DINOv2**. |
 | **3** | `offline_prototype_clustering.py` <br><sup>(to be released after paper acceptance)</sup> | Clusters the extracted features to generate **class-specific prototypes** for later stages. |
 
