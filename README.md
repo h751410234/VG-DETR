@@ -4,6 +4,19 @@ By Jianhong Han, Liang Chen and Yupei Wang.
 
 This repository contains the implementation accompanying our paper VFM-Guided Semi-Supervised Detection Transformer for Source-Free Object Detection in Remote Sensing Images.
 
+If you find it helpful for your research, please consider citing:
+
+```
+@ARTICLE{11501189,
+  author={Han, Jianhong and Wang, Yupei and Chen, Liang and Zhang, Yuan},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={VFM-Guided Semi-Supervised Detection Transformer Under Source-Free Constraints for Remote Sensing Object Detection}, 
+  year={2026},
+  volume={19},
+  pages={16028-16043},
+}
+```
+
 
 ![](/figs/Figure1.png)
 
